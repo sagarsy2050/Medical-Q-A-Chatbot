@@ -1,0 +1,13 @@
+streamlit
+datasets
+pandas
+langchain
+transformers
+sentence-transformers
+chromadb
+matplotlib
+seaborn
+scikit-learn
+numpy
+joblib
+plotly
