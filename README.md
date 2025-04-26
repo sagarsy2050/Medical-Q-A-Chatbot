@@ -12,7 +12,7 @@ Welcome to the **Medical Q&A Chatbot** — an interactive Streamlit application 
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/medical-chatbot.git
+git clone https://github.com/sagarsy2050/medical-chatbot.git
 cd medical-chatbot
 ```
 
